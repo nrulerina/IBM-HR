@@ -1,7 +1,7 @@
 # 📊 IBM HR Analytics Business Insights 🏢  
 
 <p align="center">
-  <img src="img/hr-analytics.gif" width="550" height="260" alt="HR Analytics GIF">
+  <img src="img/work-working.gif" width="550" height="260" alt="HR Analytics GIF">
 </p>  
 
 ## 📌 Project Overview  
